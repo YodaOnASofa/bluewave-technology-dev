@@ -39,6 +39,14 @@ $RECYCLE.BIN/
 # Local environment variables
 .env
 
-.sfdx
 .vscode
-.DS_Store
+.husky/
+config/
+scripts/
+.eslintignore
+.forceignore    
+.prettierignore
+.prettierrc
+README.md
+jest.config.js
+package.json
