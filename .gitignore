@@ -49,4 +49,5 @@ scripts/
 .prettierrc
 README.md
 jest.config.js
+**/.eslintrc.json
 package.json
