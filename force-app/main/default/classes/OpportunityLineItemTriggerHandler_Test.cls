@@ -329,8 +329,8 @@ private class OpportunityLineItemTriggerHandler_Test {
             Email='apex.tester@example.com', 
             EmailEncodingKey='UTF-8',
             LastName='Tester',
-            LanguageLocaleKey='en_GB', 
-            LocaleSidKey='en_GB',
+            LanguageLocaleKey='en_US', 
+            LocaleSidKey='en_US',
             ProfileId = profileId, 
             TimeZoneSidKey='Europe/London',
             UserName='apex.tester@example.com'
